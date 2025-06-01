@@ -123,7 +123,7 @@ This tool is built to **learn Git's internal structure**. It is **not a replacem
 ## 👨‍💻 Author
 
 * **Your Name**
-* GitHub: [@your-username](https://github.com/your-username)
+* GitHub: [@MohammadAliiiii](https://github.com/MohammadAliiiii)
 
 ---
 
