@@ -128,4 +128,3 @@ This tool is built to **learn Git's internal structure**. It is **not a replacem
 ---
 
 Let me know if you'd like any adjustments!
-```
