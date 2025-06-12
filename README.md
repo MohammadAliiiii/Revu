@@ -1,4 +1,3 @@
-````markdown
 # Revu - A Minimal Git-like Version Control System
 
 Revu is a simple, custom-built version control system inspired by Git. It helps you **track file changes**, **commit snapshots**, and **view diffs**, using the command line. Ideal for learning how Git works under the hood.
